@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="MT_Bin">220</integer>
+    <integer name="MT_Bin">150</integer>
+    <integer name="MT_Bin">150</integer>
+    <integer name="MT_Bin">150</integer>
+    <integer name="MT_Bin">2</integer>
+    <integer name="MT_Bin">300</integer>
+    <integer name="MT_Bin">320</integer>
+    <integer name="MT_Bin">999</integer>
+    <integer name="MT_Bin">350</integer>
+    <integer name="MT_Bin">50</integer>
+    <integer name="MT_Bin">150</integer>
+    <integer name="MT_Bin">300</integer>
+    <integer name="MT_Bin">350</integer>
+    <integer name="MT_Bin">200</integer>
+    <integer name="MT_Bin">250</integer>
+    <integer name="MT_Bin">75</integer>
+    <integer name="MT_Bin">150</integer>
+    <integer name="MT_Bin">0</integer>
+    <integer name="MT_Bin">100</integer>
+    <integer name="MT_Bin">100</integer>
+    <integer name="MT_Bin">1</integer>
+    <integer name="MT_Bin">1</integer>
+    <integer name="MT_Bin">3</integer>
+    <integer name="MT_Bin">75</integer>
+    <integer name="MT_Bin">120</integer>
+    <integer name="MT_Bin">100</integer>
+    <integer name="MT_Bin">250</integer>
+    <integer name="MT_Bin">1</integer>
+    <integer name="MT_Bin">200</integer>
+</resources>

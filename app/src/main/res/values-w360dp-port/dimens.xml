@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="MT_Bin">4dp</dimen>
+    <dimen name="MT_Bin">18dp</dimen>
+    <dimen name="MT_Bin">40dp</dimen>
+    <dimen name="MT_Bin">2dp</dimen>
+    <dimen name="MT_Bin">2dp</dimen>
+    <dimen name="MT_Bin">40dp</dimen>
+    <dimen name="MT_Bin">40dp</dimen>
+    <dimen name="MT_Bin">4dp</dimen>
+</resources>

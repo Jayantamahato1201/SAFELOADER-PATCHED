@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="MT_Bin">24dp</dimen>
+    <dimen name="MT_Bin">80dp</dimen>
+    <dimen name="MT_Bin">64dp</dimen>
+    <dimen name="MT_Bin">8dp</dimen>
+    <dimen name="MT_Bin">8dp</dimen>
+    <dimen name="MT_Bin">580dp</dimen>
+    <dimen name="MT_Bin">320dp</dimen>
+    <dimen name="MT_Bin">0dp</dimen>
+    <dimen name="MT_Bin">2dp</dimen>
+    <dimen name="MT_Bin">576dp</dimen>
+    <dimen name="MT_Bin">320dp</dimen>
+    <dimen name="MT_Bin">@dimen/MT_Bin</dimen>
+    <dimen name="MT_Bin">64dp</dimen>
+    <dimen name="MT_Bin">64dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MT_Bin">
+        <item name="MT_Bin">1</item>
+        <item name="MT_Bin">1</item>
+    </style>
+</resources>

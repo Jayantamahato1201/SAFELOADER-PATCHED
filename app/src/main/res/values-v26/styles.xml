@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?unknown_attr_ref: 1010543</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?unknown_attr_ref: 1010543</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="?0x1010540">true</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+        <item name="android:stateListAnimator">@animator/MT_Bin</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="?0x1010540">true</item>
+    </style>
+</resources>

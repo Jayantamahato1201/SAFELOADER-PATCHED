@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="MT_Bin">440dp</dimen>
+    <dimen name="MT_Bin">60%</dimen>
+    <dimen name="MT_Bin">90%</dimen>
+    <dimen name="MT_Bin">60%</dimen>
+    <dimen name="MT_Bin">90%</dimen>
+    <dimen name="MT_Bin">55%</dimen>
+    <dimen name="MT_Bin">80%</dimen>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <anim name="MT_Bin">r/0.xml</anim>
+    <anim name="MT_Bin">r/1.xml</anim>
+    <anim name="MT_Bin">r/2.xml</anim>
+    <anim name="MT_Bin">r/3.xml</anim>
+    <anim name="MT_Bin">r/4.xml</anim>
+    <anim name="MT_Bin">r/5.xml</anim>
+    <anim name="MT_Bin">r/6.xml</anim>
+    <anim name="MT_Bin">r/7.xml</anim>
+    <anim name="MT_Bin">r/8.xml</anim>
+    <anim name="MT_Bin">r/9.xml</anim>
+    <anim name="MT_Bin">r/A.xml</anim>
+    <anim name="MT_Bin">r/B.xml</anim>
+    <anim name="MT_Bin">r/C.xml</anim>
+    <anim name="MT_Bin">r/D.xml</anim>
+    <anim name="MT_Bin">r/E.xml</anim>
+    <anim name="MT_Bin">r/F.xml</anim>
+    <anim name="MT_Bin">r/G.xml</anim>
+    <anim name="MT_Bin">r/H.xml</anim>
+    <anim name="MT_Bin">r/I.xml</anim>
+    <anim name="MT_Bin">r/J.xml</anim>
+    <anim name="MT_Bin">r/K.xml</anim>
+    <anim name="MT_Bin">r/L.xml</anim>
+    <anim name="MT_Bin">r/M.xml</anim>
+    <anim name="MT_Bin">r/N.xml</anim>
+    <anim name="MT_Bin">r/O.xml</anim>
+    <anim name="MT_Bin">r/P.xml</anim>
+</resources>

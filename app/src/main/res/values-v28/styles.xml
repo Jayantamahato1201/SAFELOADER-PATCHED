@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:backgroundDimAmount">@dimen/MT_Bin</item>
+        <item name="android:checkedTextViewStyle">@style/MT_Bin</item>
+        <item name="?0x1010571">@null</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?unknown_attr_ref: 1010571</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?unknown_attr_ref: 1010571</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0312</item>
+        <item name="?0x101057f">24sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">24sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0179</item>
+        <item name="?0x101057f">20sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">20sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0333</item>
+        <item name="?0x101057f">16sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">16sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">57sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">-0.0044</item>
+        <item name="?0x101057f">64sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">64sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">45sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="?0x101057f">52sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">52sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="?0x101057f">44sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">44sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="?0x101057f">40sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">40sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="?0x101057f">36sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">36sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="?0x101057f">32sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">32sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0071</item>
+        <item name="?0x101057f">20sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">20sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0417</item>
+        <item name="?0x101057f">16sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">16sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0455</item>
+        <item name="?0x101057f">16sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">16sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="?0x101057f">28sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">28sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0094</item>
+        <item name="?0x101057f">24sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">24sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0071</item>
+        <item name="?0x101057f">20sp</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">20sp</item>
+    </style>
+</resources>

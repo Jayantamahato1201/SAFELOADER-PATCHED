@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">账号</string>
+    <string name="MT_Bin">防录屏</string>
+    <string name="MT_Bin">退出</string>
+    <string name="MT_Bin">插件加载中…</string>
+    <string name="MT_Bin">数据激活失败</string>
+    <string name="MT_Bin">BgmiBox</string>
+    <string name="MT_Bin">正在检查更新…</string>
+    <string name="MT_Bin">清除数据</string>
+    <string name="MT_Bin">清除登录</string>
+    <string name="MT_Bin">正在移动obb…</string>
+    <string name="MT_Bin">设备</string>
+    <string name="MT_Bin">下载失败</string>
+    <string name="MT_Bin">正在下载更新…</string>
+    <string name="MT_Bin">请给予权限</string>
+    <string name="MT_Bin">错误</string>
+    <string name="MT_Bin">正在解压更新…</string>
+    <string name="MT_Bin">游戏</string>
+    <string name="MT_Bin">游戏 (1)</string>
+    <string name="MT_Bin">授予权限</string>
+    <string name="MT_Bin">插件需要一些权限以正常工作</string>
+    <string name="MT_Bin">不合法的卡密</string>
+    <string name="MT_Bin">卡密</string>
+    <string name="MT_Bin">结束</string>
+    <string name="MT_Bin">启动</string>
+    <string name="MT_Bin">未找到动态库</string>
+    <string name="MT_Bin">登录中…</string>
+    <string name="MT_Bin">登录</string>
+    <string name="MT_Bin"> 登录成功</string>
+    <string name="MT_Bin">菜单</string>
+    <string name="MT_Bin">有新的更新</string>
+    <string name="MT_Bin">GameBox 新版本 v%s 已发布, 请从官方电报中下载更新</string>
+    <string name="MT_Bin">游戏的Obb成功移动!</string>
+    <string name="MT_Bin">无法移动obb :(</string>
+    <string name="MT_Bin">OK</string>
+    <string name="MT_Bin">到期时间</string>
+    <string name="MT_Bin">成功</string>
+    <string name="MT_Bin">电报</string>
+    <string name="MT_Bin">数据过期!</string>
+    <string name="MT_Bin">更新检查失败</string>
+    <string name="MT_Bin">已安装</string>
+</resources>

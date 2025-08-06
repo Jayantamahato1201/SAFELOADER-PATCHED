@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MT_Bin">
+        <item name="MT_Bin">18.66dp</item>
+        <item name="MT_Bin">24dp</item>
+        <item name="MT_Bin">3.33dp</item>
+    </style>
+</resources>

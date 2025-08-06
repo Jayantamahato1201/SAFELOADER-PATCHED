@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <animator name="MT_Bin">r/Q.xml</animator>
+    <animator name="MT_Bin">r/R.xml</animator>
+    <animator name="MT_Bin">r/S.xml</animator>
+    <animator name="MT_Bin">r/T.xml</animator>
+    <animator name="MT_Bin">r/U.xml</animator>
+    <animator name="MT_Bin">r/V.xml</animator>
+    <animator name="MT_Bin">r/W.xml</animator>
+    <animator name="MT_Bin">r/X.xml</animator>
+    <animator name="MT_Bin">r/Y.xml</animator>
+    <animator name="MT_Bin">r/Z.xml</animator>
+    <animator name="MT_Bin">r/a.xml</animator>
+    <animator name="MT_Bin">r/b.xml</animator>
+    <animator name="MT_Bin">r/c.xml</animator>
+    <animator name="MT_Bin">r/d.xml</animator>
+    <animator name="MT_Bin">r/e.xml</animator>
+    <animator name="MT_Bin">r/f.xml</animator>
+</resources>

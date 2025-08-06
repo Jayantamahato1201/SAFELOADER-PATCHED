@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <interpolator name="MT_Bin">r/3N.xml</interpolator>
+    <interpolator name="MT_Bin">r/3O.xml</interpolator>
+    <interpolator name="MT_Bin">r/3P.xml</interpolator>
+    <interpolator name="MT_Bin">r/3Q.xml</interpolator>
+    <interpolator name="MT_Bin">r/3R.xml</interpolator>
+    <interpolator name="MT_Bin">r/3S.xml</interpolator>
+    <interpolator name="MT_Bin">r/3T.xml</interpolator>
+    <interpolator name="MT_Bin">r/3U.xml</interpolator>
+    <interpolator name="MT_Bin">r/3V.xml</interpolator>
+    <interpolator name="MT_Bin">r/3W.xml</interpolator>
+    <interpolator name="MT_Bin">r/3X.xml</interpolator>
+</resources>

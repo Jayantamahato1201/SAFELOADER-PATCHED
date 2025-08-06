@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MT_Bin">Navigate up</string>
+    <string name="MT_Bin">Done</string>
+    <string name="MT_Bin">OFF</string>
+    <string name="MT_Bin">ON</string>
+    <string name="MT_Bin">Alt+</string>
+    <string name="MT_Bin">Ctrl+</string>
+    <string name="MT_Bin">delete</string>
+    <string name="MT_Bin">enter</string>
+    <string name="MT_Bin">Function+</string>
+    <string name="MT_Bin">Meta+</string>
+    <string name="MT_Bin">Shift+</string>
+    <string name="MT_Bin">space</string>
+    <string name="MT_Bin">Sym+</string>
+    <string name="MT_Bin">Menu+</string>
+    <string name="MT_Bin">Search…</string>
+    <string name="MT_Bin">Clear query</string>
+    <string name="MT_Bin">Search</string>
+    <string name="MT_Bin">Submit query</string>
+    <string name="MT_Bin">Voice search</string>
+    <string name="MT_Bin">Collapse</string>
+    <string name="MT_Bin">Search</string>
+</resources>

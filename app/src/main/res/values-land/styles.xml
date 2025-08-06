@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MT_Bin">
+        <item name="MT_Bin">1</item>
+        <item name="MT_Bin">1</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">?attr/MT_Bin</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">@integer/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_gravity">top|right|center_vertical|center_horizontal|center</item>
+    </style>
+</resources>

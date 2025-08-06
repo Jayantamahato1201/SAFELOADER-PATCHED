@@ -1,0 +1,3503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowEnterAnimation">@anim/MT_Bin</item>
+        <item name="android:windowExitAnimation">@anim/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout">@layout/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@layout/MT_Bin</item>
+        <item name="MT_Bin">@layout/MT_Bin</item>
+        <item name="MT_Bin">@layout/MT_Bin</item>
+        <item name="MT_Bin">@layout/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowEnterAnimation">@anim/MT_Bin</item>
+        <item name="android:windowExitAnimation">@anim/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowEnterAnimation">@anim/MT_Bin</item>
+        <item name="android:windowExitAnimation">@anim/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowEnterAnimation">@anim/MT_Bin</item>
+        <item name="android:windowExitAnimation">@anim/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">false</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">@style/MT_Bin</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">?attr/MT_Bin</item>
+        <item name="android:paddingTop">@dimen/MT_Bin</item>
+        <item name="android:paddingRight">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_width">32dp</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:src">@null</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:contentDescription">@null</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:paddingLeft">?attr/MT_Bin</item>
+        <item name="android:paddingTop">@dimen/MT_Bin</item>
+        <item name="android:paddingRight">?attr/MT_Bin</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">@color/MT_Bin</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+        <item name="android:textColorHighlight">?android:attr/textColorHighlightInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+        <item name="android:textColorLink">?android:attr/textColorLinkInverse</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+        <item name="android:textColorHighlight">?android:attr/textColorHighlightInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+        <item name="android:textColorLink">?android:attr/textColorLinkInverse</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?attr/MT_Bin</item>
+        <item name="MT_Bin">@bool/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">@dimen/MT_Bin</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">@dimen/MT_Bin</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/MT_Bin</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0893</item>
+        <item name="MT_Bin">sans-serif-medium</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0893</item>
+        <item name="MT_Bin">sans-serif-medium</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0125</item>
+        <item name="MT_Bin">sans-serif-medium</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0071</item>
+        <item name="MT_Bin">sans-serif-medium</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:listViewStyle">@style/MT_Bin</item>
+        <item name="android:windowAnimationStyle">@style/MT_Bin</item>
+        <item name="android:itemTextAppearance">?android:attr/textAppearanceMedium</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:listViewStyle">@style/MT_Bin</item>
+        <item name="android:windowAnimationStyle">@style/MT_Bin</item>
+        <item name="android:itemTextAppearance">?android:attr/textAppearanceMedium</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?android:attr/textColorPrimary</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorForeground">@color/MT_Bin</item>
+        <item name="android:colorBackground">@color/MT_Bin</item>
+        <item name="android:textColorPrimary">@color/MT_Bin</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/MT_Bin</item>
+        <item name="android:textColorSecondary">@color/MT_Bin</item>
+        <item name="android:textColorPrimaryInverse">@color/MT_Bin</item>
+        <item name="android:textColorSecondaryInverse">@color/MT_Bin</item>
+        <item name="android:textColorHintInverse">@color/MT_Bin</item>
+        <item name="android:windowBackground">@color/MT_Bin</item>
+        <item name="android:textColorHighlight">@color/MT_Bin</item>
+        <item name="android:textColorHint">@color/MT_Bin</item>
+        <item name="android:colorForegroundInverse">@color/MT_Bin</item>
+        <item name="android:textColorTertiary">@color/MT_Bin</item>
+        <item name="android:textColorTertiaryInverse">@color/MT_Bin</item>
+        <item name="android:colorBackgroundCacheHint">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/textColorSecondary</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?android:attr/textColorPrimary</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorForeground">@color/MT_Bin</item>
+        <item name="android:colorBackground">@color/MT_Bin</item>
+        <item name="android:textColorPrimary">@color/MT_Bin</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/MT_Bin</item>
+        <item name="android:textColorSecondary">@color/MT_Bin</item>
+        <item name="android:textColorPrimaryInverse">@color/MT_Bin</item>
+        <item name="android:textColorSecondaryInverse">@color/MT_Bin</item>
+        <item name="android:textColorHintInverse">@color/MT_Bin</item>
+        <item name="android:windowBackground">@color/MT_Bin</item>
+        <item name="android:textColorHighlight">@color/MT_Bin</item>
+        <item name="android:textColorHint">@color/MT_Bin</item>
+        <item name="android:colorForegroundInverse">@color/MT_Bin</item>
+        <item name="android:textColorTertiary">@color/MT_Bin</item>
+        <item name="android:textColorTertiaryInverse">@color/MT_Bin</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/MT_Bin</item>
+        <item name="android:colorBackgroundCacheHint">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/textColorSecondary</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowBackground">@drawable/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:buttonBarButtonStyle">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:buttonBarButtonStyle">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorBackground">@color/MT_Bin</item>
+        <item name="android:buttonBarButtonStyle">?attr/MT_Bin</item>
+        <item name="android:timePickerDialogTheme">@style/MT_Bin</item>
+        <item name="android:datePickerDialogTheme">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorBackground">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorBackground">@color/MT_Bin</item>
+        <item name="android:buttonBarButtonStyle">?attr/MT_Bin</item>
+        <item name="android:timePickerDialogTheme">@style/MT_Bin</item>
+        <item name="android:datePickerDialogTheme">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorBackground">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:backgroundDimAmount">@dimen/MT_Bin</item>
+        <item name="android:checkedTextViewStyle">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingTop">17dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingBottom">17dp</item>
+        <item name="android:dropDownVerticalOffset">@dimen/MT_Bin</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:popupElevation">@dimen/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorControlNormal">?attr/MT_Bin</item>
+        <item name="android:colorControlActivated">?attr/MT_Bin</item>
+        <item name="android:colorButtonNormal">?attr/MT_Bin</item>
+        <item name="android:colorControlHighlight">?attr/MT_Bin</item>
+        <item name="android:colorPrimary">?attr/MT_Bin</item>
+        <item name="android:colorPrimaryDark">?attr/MT_Bin</item>
+        <item name="android:colorAccent">?attr/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/actionBarDivider</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/actionBarSize</item>
+        <item name="MT_Bin">?android:attr/actionButtonStyle</item>
+        <item name="MT_Bin">?android:attr/actionModeBackground</item>
+        <item name="MT_Bin">?android:attr/actionModeCloseDrawable</item>
+        <item name="MT_Bin">?android:attr/borderlessButtonStyle</item>
+        <item name="MT_Bin">?android:attr/buttonStyle</item>
+        <item name="MT_Bin">?android:attr/buttonStyleSmall</item>
+        <item name="MT_Bin">?android:attr/checkboxStyle</item>
+        <item name="MT_Bin">?android:attr/checkedTextViewStyle</item>
+        <item name="MT_Bin">?android:attr/dividerHorizontal</item>
+        <item name="MT_Bin">?android:attr/dividerVertical</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/editTextColor</item>
+        <item name="MT_Bin">?android:attr/homeAsUpIndicator</item>
+        <item name="MT_Bin">?android:attr/listChoiceBackgroundIndicator</item>
+        <item name="MT_Bin">?android:attr/listPreferredItemHeightSmall</item>
+        <item name="MT_Bin">?android:attr/radioButtonStyle</item>
+        <item name="MT_Bin">?android:attr/ratingBarStyle</item>
+        <item name="MT_Bin">?android:attr/selectableItemBackground</item>
+        <item name="MT_Bin">?android:attr/selectableItemBackgroundBorderless</item>
+        <item name="MT_Bin">?android:attr/spinnerStyle</item>
+        <item name="MT_Bin">?android:attr/textAppearanceLargePopupMenu</item>
+        <item name="MT_Bin">?android:attr/textAppearanceSmallPopupMenu</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowElevation">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorControlNormal">?attr/MT_Bin</item>
+        <item name="android:colorControlActivated">?attr/MT_Bin</item>
+        <item name="android:colorButtonNormal">?attr/MT_Bin</item>
+        <item name="android:colorControlHighlight">?attr/MT_Bin</item>
+        <item name="android:colorPrimary">?attr/MT_Bin</item>
+        <item name="android:colorPrimaryDark">?attr/MT_Bin</item>
+        <item name="android:colorAccent">?attr/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/actionBarDivider</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/actionBarSize</item>
+        <item name="MT_Bin">?android:attr/actionButtonStyle</item>
+        <item name="MT_Bin">?android:attr/actionModeBackground</item>
+        <item name="MT_Bin">?android:attr/actionModeCloseDrawable</item>
+        <item name="MT_Bin">?android:attr/borderlessButtonStyle</item>
+        <item name="MT_Bin">?android:attr/buttonStyle</item>
+        <item name="MT_Bin">?android:attr/buttonStyleSmall</item>
+        <item name="MT_Bin">?android:attr/checkboxStyle</item>
+        <item name="MT_Bin">?android:attr/checkedTextViewStyle</item>
+        <item name="MT_Bin">?android:attr/dividerHorizontal</item>
+        <item name="MT_Bin">?android:attr/dividerVertical</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/editTextColor</item>
+        <item name="MT_Bin">?android:attr/homeAsUpIndicator</item>
+        <item name="MT_Bin">?android:attr/listChoiceBackgroundIndicator</item>
+        <item name="MT_Bin">?android:attr/listPreferredItemHeightSmall</item>
+        <item name="MT_Bin">?android:attr/radioButtonStyle</item>
+        <item name="MT_Bin">?android:attr/ratingBarStyle</item>
+        <item name="MT_Bin">?android:attr/selectableItemBackground</item>
+        <item name="MT_Bin">?android:attr/selectableItemBackgroundBorderless</item>
+        <item name="MT_Bin">?android:attr/spinnerStyle</item>
+        <item name="MT_Bin">?android:attr/textAppearanceLargePopupMenu</item>
+        <item name="MT_Bin">?android:attr/textAppearanceSmallPopupMenu</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowElevation">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:alertDialogTheme">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:alertDialogTheme">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:alertDialogTheme">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:alertDialogTheme">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowElevation">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="android:dropDownListViewStyle">@style/MT_Bin</item>
+        <item name="android:textViewStyle">@style/MT_Bin</item>
+        <item name="android:dropDownItemStyle">@style/MT_Bin</item>
+        <item name="android:spinnerItemStyle">@style/MT_Bin</item>
+        <item name="android:textAppearanceButton">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/checkedTextViewStyle</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/textColorSecondary</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/dropDownListViewStyle</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/textColorPrimary</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">false</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorBackground">?attr/MT_Bin</item>
+        <item name="android:windowBackground">@drawable/MT_Bin</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/MT_Bin</item>
+        <item name="android:windowTitleBackgroundStyle">@style/MT_Bin</item>
+        <item name="android:windowAnimationStyle">@style/MT_Bin</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustUnspecified|stateVisible|adjustResize</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:borderlessButtonStyle">@style/MT_Bin</item>
+        <item name="android:buttonBarStyle">@style/MT_Bin</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="MT_Bin">24dp</item>
+        <item name="MT_Bin">24dp</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="android:dropDownListViewStyle">@style/MT_Bin</item>
+        <item name="android:textViewStyle">@style/MT_Bin</item>
+        <item name="android:dropDownItemStyle">@style/MT_Bin</item>
+        <item name="android:spinnerItemStyle">@style/MT_Bin</item>
+        <item name="android:textAppearanceButton">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/textColorSecondary</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/dropDownListViewStyle</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/textColorPrimary</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">false</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorBackground">?attr/MT_Bin</item>
+        <item name="android:windowBackground">@drawable/MT_Bin</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/MT_Bin</item>
+        <item name="android:windowTitleBackgroundStyle">@style/MT_Bin</item>
+        <item name="android:windowAnimationStyle">@style/MT_Bin</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustUnspecified|stateVisible|adjustResize</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:borderlessButtonStyle">@style/MT_Bin</item>
+        <item name="android:buttonBarStyle">@style/MT_Bin</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="MT_Bin">24dp</item>
+        <item name="MT_Bin">24dp</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorBackground">?attr/MT_Bin</item>
+        <item name="android:windowBackground">@drawable/MT_Bin</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/MT_Bin</item>
+        <item name="android:windowTitleBackgroundStyle">@style/MT_Bin</item>
+        <item name="android:windowAnimationStyle">@style/MT_Bin</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustUnspecified|stateVisible|adjustResize</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:borderlessButtonStyle">@style/MT_Bin</item>
+        <item name="android:buttonBarStyle">@style/MT_Bin</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="MT_Bin">24dp</item>
+        <item name="MT_Bin">24dp</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:paddingLeft">@dimen/MT_Bin</item>
+        <item name="android:paddingRight">@dimen/MT_Bin</item>
+        <item name="android:minHeight">?attr/MT_Bin</item>
+        <item name="android:paddingStart">@dimen/MT_Bin</item>
+        <item name="android:paddingEnd">@dimen/MT_Bin</item>
+        <item name="MT_Bin">30</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">16dp</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">4dp</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:gravity">clip_horizontal</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">8</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">8dp</item>
+        <item name="MT_Bin">2</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:minWidth">56dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:src">@null</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:paddingLeft">@dimen/MT_Bin</item>
+        <item name="android:paddingRight">@dimen/MT_Bin</item>
+        <item name="android:minHeight">?attr/MT_Bin</item>
+        <item name="android:paddingStart">@dimen/MT_Bin</item>
+        <item name="android:paddingEnd">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">30</item>
+        <item name="MT_Bin">@layout/MT_Bin</item>
+        <item name="MT_Bin">16dp</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">4dp</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:background">@drawable/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">6dp</item>
+        <item name="MT_Bin">2</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:minWidth">64dp</item>
+        <item name="android:minHeight">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+        <item name="android:textOn">@string/MT_Bin</item>
+        <item name="android:textOff">@string/MT_Bin</item>
+        <item name="android:thumb">@drawable/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">18dp</item>
+        <item name="MT_Bin">24dp</item>
+        <item name="MT_Bin">3dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">8dp</item>
+        <item name="MT_Bin">16dp</item>
+        <item name="MT_Bin">?android:attr/textColorSecondary</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">2dp</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:dropDownHorizontalOffset">-4dp</item>
+        <item name="android:overlapAnchor">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:dropDownHorizontalOffset">-4dp</item>
+        <item name="android:overlapAnchor">true</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:maxHeight">36dp</item>
+        <item name="android:indeterminateDrawable">@drawable/MT_Bin</item>
+        <item name="android:progressDrawable">@drawable/MT_Bin</item>
+        <item name="android:minHeight">36dp</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:maxHeight">16dp</item>
+        <item name="android:indeterminateDrawable">@drawable/MT_Bin</item>
+        <item name="android:progressDrawable">@drawable/MT_Bin</item>
+        <item name="android:minHeight">16dp</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@layout/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@layout/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">12dp</item>
+        <item name="MT_Bin">12dp</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">false</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:popupBackground">@null</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">@color/MT_Bin</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:text">@null</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:checkable">false</item>
+        <item name="android:stateListAnimator">@animator/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">6dp</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">24dp</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">32dp</item>
+        <item name="MT_Bin">48dp</item>
+        <item name="MT_Bin">4dp</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">2dp</item>
+        <item name="MT_Bin">18dp</item>
+        <item name="MT_Bin">2dp</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">6dp</item>
+        <item name="MT_Bin">8dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+        <item name="android:tint">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:dropDownVerticalOffset">1px</item>
+        <item name="MT_Bin">false</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:overlapAnchor">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:popupBackground">?attr/MT_Bin</item>
+        <item name="android:dropDownVerticalOffset">1dp</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:dropDownVerticalOffset">1px</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:paddingLeft">@dimen/MT_Bin</item>
+        <item name="android:paddingRight">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingTop">17dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingBottom">17dp</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColorHint">@color/MT_Bin</item>
+        <item name="android:maxWidth">@dimen/MT_Bin</item>
+        <item name="android:minWidth">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">2</item>
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout">@layout/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@layout/MT_Bin</item>
+        <item name="MT_Bin">@layout/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@layout/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_gravity">right|center_horizontal|clip_horizontal</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:orientation">@null</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_gravity">right|center_horizontal|clip_horizontal</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorControlNormal">?attr/MT_Bin</item>
+        <item name="android:colorControlActivated">?attr/MT_Bin</item>
+        <item name="android:colorButtonNormal">?attr/MT_Bin</item>
+        <item name="android:colorControlHighlight">?attr/MT_Bin</item>
+        <item name="android:colorPrimary">?attr/MT_Bin</item>
+        <item name="android:colorPrimaryDark">?attr/MT_Bin</item>
+        <item name="android:colorAccent">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColorHintInverse">@color/MT_Bin</item>
+        <item name="android:textColorHint">@color/MT_Bin</item>
+        <item name="android:textColorLink">?android:attr/colorAccent</item>
+        <item name="android:buttonBarStyle">?attr/MT_Bin</item>
+        <item name="android:buttonBarButtonStyle">?attr/MT_Bin</item>
+        <item name="android:textColorLinkInverse">?android:attr/colorAccent</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColorHintInverse">@color/MT_Bin</item>
+        <item name="android:textColorHint">@color/MT_Bin</item>
+        <item name="android:textColorLink">?android:attr/colorAccent</item>
+        <item name="android:buttonBarStyle">?attr/MT_Bin</item>
+        <item name="android:buttonBarButtonStyle">?attr/MT_Bin</item>
+        <item name="android:textColorLinkInverse">?android:attr/colorAccent</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_gravity">right|center_horizontal|clip_horizontal</item>
+        <item name="android:paddingEnd">8dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:paddingEnd">16dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_marginStart">16dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAlignment">viewEnd</item>
+        <item name="android:layout_marginStart">16dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_marginStart">8dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_marginStart">16dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:paddingStart">@dimen/MT_Bin</item>
+        <item name="android:paddingEnd">4dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_toStartOf">@id/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_toStartOf">@android:id/icon2</item>
+        <item name="android:layout_toEndOf">@android:id/icon1</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_marginStart">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">0dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@null</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">50%</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">4dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">0dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">50%</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@null</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">50%</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">0dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">@dimen/MT_Bin</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">@dimen/MT_Bin</item>
+        <item name="android:textColor">@color/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0312</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">24sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0179</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">20sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0333</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">16sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">57sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">-0.0044</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">64sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">45sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">52sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">44sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">40sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">36sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">32sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0071</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">20sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0417</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">16sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0455</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">16sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">28sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0094</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">24sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">@string/MT_Bin</item>
+        <item name="android:letterSpacing">0.0071</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">20sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">?attr/MT_Bin</item>
+        <item name="android:textColorHint">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">?attr/MT_Bin</item>
+        <item name="android:textColorHint">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?android:attr/textColorTertiary</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textStyle">@null</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="MT_Bin">sans-serif-medium</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.0312</item>
+        <item name="MT_Bin">sans-serif</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.0179</item>
+        <item name="MT_Bin">sans-serif</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textStyle">@null</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="MT_Bin">sans-serif-medium</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.0333</item>
+        <item name="MT_Bin">sans-serif</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">@dimen/MT_Bin</item>
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">96sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:letterSpacing">-0.0156</item>
+        <item name="MT_Bin">sans-serif-light</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">60sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:letterSpacing">-0.0083</item>
+        <item name="MT_Bin">sans-serif-light</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">48sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="MT_Bin">sans-serif</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">34sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.0074</item>
+        <item name="MT_Bin">sans-serif</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="MT_Bin">sans-serif</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textStyle">@null</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="MT_Bin">sans-serif-medium</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.1667</item>
+        <item name="MT_Bin">sans-serif</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.0094</item>
+        <item name="MT_Bin">sans-serif</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textStyle">@null</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="MT_Bin">sans-serif-medium</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorBackground">@color/MT_Bin</item>
+        <item name="android:statusBarColor">?android:attr/colorBackground</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColorPrimary">@color/MT_Bin</item>
+        <item name="android:buttonStyle">@style/MT_Bin</item>
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:gravity">right|center_horizontal|clip_horizontal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">@android:color/tab_indicator_text</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">5dp</item>
+        <item name="android:layout_marginEnd">5dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">50%</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowMinWidthMajor">@dimen/MT_Bin</item>
+        <item name="android:windowMinWidthMinor">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorBackground">?attr/MT_Bin</item>
+        <item name="android:textColorPrimary">@color/MT_Bin</item>
+        <item name="android:textColorSecondary">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorBackground">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:colorBackground">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowIsFloating">false</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:editTextBackground">@null</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">false</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textViewStyle">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">@drawable/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textSize">@dimen/MT_Bin</item>
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+        <item name="android:stateListAnimator">@animator/MT_Bin</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:minHeight">@dimen/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">-1</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:elevation">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">-1</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">@drawable/MT_Bin</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">-1</item>
+        <item name="MT_Bin">@animator/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@animator/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?android:attr/windowBackground</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:maxWidth">@dimen/MT_Bin</item>
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">#0000</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">@drawable/MT_Bin</item>
+        <item name="android:paddingLeft">@dimen/MT_Bin</item>
+        <item name="android:paddingRight">@dimen/MT_Bin</item>
+        <item name="android:maxWidth">@dimen/MT_Bin</item>
+        <item name="android:minWidth">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">1</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">false</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@string/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_gravity">right|center_horizontal</item>
+        <item name="android:elevation">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">0dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:minHeight">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">8388661</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">1</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:minHeight">@dimen/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">8dp</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">1</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">@null</item>
+        <item name="android:maxWidth">@dimen/MT_Bin</item>
+        <item name="android:elevation">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:elevation">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">@color/MT_Bin</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">@dimen/MT_Bin</item>
+        <item name="android:paddingTop">@dimen/MT_Bin</item>
+        <item name="android:paddingRight">@dimen/MT_Bin</item>
+        <item name="android:paddingBottom">@dimen/MT_Bin</item>
+        <item name="android:maxWidth">@dimen/MT_Bin</item>
+        <item name="android:insetLeft">0dp</item>
+        <item name="android:insetRight">0dp</item>
+        <item name="android:insetTop">@dimen/MT_Bin</item>
+        <item name="android:insetBottom">@dimen/MT_Bin</item>
+        <item name="android:stateListAnimator">@animator/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:paddingLeft">@dimen/MT_Bin</item>
+        <item name="android:paddingRight">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">@color/MT_Bin</item>
+        <item name="android:paddingLeft">@dimen/MT_Bin</item>
+        <item name="android:paddingRight">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_marginLeft">@dimen/MT_Bin</item>
+        <item name="android:minWidth">@dimen/MT_Bin</item>
+        <item name="android:lines">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginStart">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginStart">0dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:stateListAnimator">@animator/MT_Bin</item>
+        <item name="MT_Bin">0dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:stateListAnimator">@animator/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">false</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">@color/MT_Bin</item>
+        <item name="android:checkable">true</item>
+        <item name="MT_Bin">@drawable/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:checkable">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">8dp</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">false</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@android:color/transparent</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:minWidth">?attr/MT_Bin</item>
+        <item name="android:minHeight">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:minWidth">?attr/MT_Bin</item>
+        <item name="android:minHeight">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:minWidth">?attr/MT_Bin</item>
+        <item name="android:minHeight">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">@color/MT_Bin</item>
+        <item name="android:paddingLeft">@dimen/MT_Bin</item>
+        <item name="android:paddingTop">@dimen/MT_Bin</item>
+        <item name="android:paddingRight">@dimen/MT_Bin</item>
+        <item name="android:paddingBottom">@dimen/MT_Bin</item>
+        <item name="android:minWidth">@dimen/MT_Bin</item>
+        <item name="android:minHeight">@dimen/MT_Bin</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:paddingStart">@dimen/MT_Bin</item>
+        <item name="android:paddingEnd">@dimen/MT_Bin</item>
+        <item name="android:stateListAnimator">@animator/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">1</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:gravity">right|center_horizontal|clip_horizontal</item>
+        <item name="android:paddingLeft">@dimen/MT_Bin</item>
+        <item name="android:paddingRight">@dimen/MT_Bin</item>
+        <item name="android:paddingStart">@dimen/MT_Bin</item>
+        <item name="android:paddingEnd">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">@null</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@animator/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@animator/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:minHeight">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">1</item>
+        <item name="MT_Bin">2</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">false</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowFullscreen">false</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:height">@dimen/MT_Bin</item>
+        <item name="android:width">@dimen/MT_Bin</item>
+        <item name="android:insetLeft">@dimen/MT_Bin</item>
+        <item name="android:insetRight">@dimen/MT_Bin</item>
+        <item name="android:insetTop">@dimen/MT_Bin</item>
+        <item name="android:insetBottom">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:windowFullscreen">true</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textColor">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_height">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">?attr/MT_Bin</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">@integer/MT_Bin</item>
+        <item name="MT_Bin">34sp</item>
+        <item name="MT_Bin">2sp</item>
+        <item name="MT_Bin">1</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:maxLines">1</item>
+        <item name="MT_Bin">20sp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">?attr/MT_Bin</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">1</item>
+        <item name="MT_Bin">10sp</item>
+        <item name="MT_Bin">2sp</item>
+        <item name="MT_Bin">1</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:layout_gravity">top|left|right|center_vertical|center_horizontal|fill_horizontal|center</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@android:color/transparent</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">1dp</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:height">@dimen/MT_Bin</item>
+        <item name="android:width">@dimen/MT_Bin</item>
+        <item name="android:insetLeft">@dimen/MT_Bin</item>
+        <item name="android:insetRight">@dimen/MT_Bin</item>
+        <item name="android:insetTop">@dimen/MT_Bin</item>
+        <item name="android:insetBottom">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:minWidth">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">-1</item>
+        <item name="MT_Bin">49</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:popupBackground">?attr/MT_Bin</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:popupBackground">?attr/MT_Bin</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">@null</item>
+        <item name="android:layout_margin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">1</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textColor">?attr/MT_Bin</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingTop">@dimen/MT_Bin</item>
+        <item name="android:paddingBottom">@dimen/MT_Bin</item>
+        <item name="android:layout_marginLeft">@dimen/MT_Bin</item>
+        <item name="android:layout_marginRight">@dimen/MT_Bin</item>
+        <item name="android:maxLines">@integer/MT_Bin</item>
+        <item name="android:alpha">@dimen/MT_Bin</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:background">?attr/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">true</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@integer/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">true</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingBottom">8dp</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:paddingTop">13dp</item>
+        <item name="android:paddingBottom">13dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">1</item>
+        <item name="MT_Bin">10dp</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">3</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">3</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textSize">56dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="MT_Bin">false</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textSize">56dp</item>
+        <item name="android:textColor">?attr/MT_Bin</item>
+        <item name="android:text">@string/MT_Bin</item>
+        <item name="android:maxEms">1</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">0dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">?attr/MT_Bin</item>
+        <item name="android:textSize">56dp</item>
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:minEms">2</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:maxLength">2</item>
+        <item name="android:inputType">number</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:paddingStart">0dp</item>
+        <item name="android:paddingEnd">0dp</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@style/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">@null</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:minWidth">?attr/MT_Bin</item>
+        <item name="android:minHeight">?attr/MT_Bin</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="MT_Bin">2</item>
+        <item name="MT_Bin">0dp</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@color/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">@null</item>
+        <item name="MT_Bin">50%</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:minHeight">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@dimen/MT_Bin</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/textColorSecondary</item>
+        <item name="MT_Bin">?attr/MT_Bin</item>
+        <item name="MT_Bin">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="android:textAppearance">@style/MT_Bin</item>
+        <item name="android:padding">@dimen/MT_Bin</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:minWidth">@dimen/MT_Bin</item>
+        <item name="android:minHeight">@dimen/MT_Bin</item>
+        <item name="MT_Bin">@style/MT_Bin</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">0%</item>
+        <item name="MT_Bin">0%</item>
+    </style>
+</resources>

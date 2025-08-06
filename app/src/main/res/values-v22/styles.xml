@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?android:attr/actionModeShareDrawable</item>
+        <item name="MT_Bin">?android:attr/editTextBackground</item>
+    </style>
+    <style name="MT_Bin">
+        <item name="MT_Bin">?android:attr/actionModeShareDrawable</item>
+        <item name="MT_Bin">?android:attr/editTextBackground</item>
+    </style>
+</resources>
